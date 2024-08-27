@@ -1,8 +1,8 @@
-# Proyecto especial: Becas para estudiantes de la UNI (08/08 - 26/08)
+# Proyecto especial: Becas para estudiantes de la UNI (08/08 - 28/08)
 
 [![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Power%20BI%20dashboard-yellow.svg)](https://app.powerbi.com/view?r=eyJrIjoiMmJkZTJiNjktM2MzNi00NmNhLTk5OWEtMWJmOGU0MjU1NDZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 
-[![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Google%20Colaboratory-orange.svg)](https://colab.research.google.com/drive/15QivZfFC8UZ-Q7NikX3S-1Dhn7I9pzEr?usp=sharing)
+[![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Google%20Colaboratory-orange.svg)](https://colab.research.google.com/drive/1TSI0C-4jdSA9TzLkCOL6lXWZ0c_zXpzL?usp=sharing)
 
 Para ver el dashboard del análisis, haga clic en el primer icono de badge de arriba ('Clic para abrir Power BI dashboard') o en el segundo icono ('Clic para abrir Google Colaboratory').
 
@@ -10,8 +10,62 @@ Si no le funciona, haga clic en el siguiente link:
 
 Power BI dashboard: https://app.powerbi.com/view?r=eyJrIjoiMmJkZTJiNjktM2MzNi00NmNhLTk5OWEtMWJmOGU0MjU1NDZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9
 
-Google Colaboratory: https://colab.research.google.com/drive/15QivZfFC8UZ-Q7NikX3S-1Dhn7I9pzEr?usp=sharing
+Google Colaboratory: https://colab.research.google.com/drive/1TSI0C-4jdSA9TzLkCOL6lXWZ0c_zXpzL?usp=sharing
 
 ## Resumen
 
-El proyecto busca aplicar análisis de datos para descubrir patrones en estudiantes que mantienen un alto rendimiento académico. Para ello, se utilizó el dataset ofrecido por la Universidad Nacional de Ingeniería en la página de Datos Abiertos, que contenía información de las matrículas registradas desde el semestre 2016-1 hasta el 2024-1. Estas matrículas contenían: datos de cada estudiante, como su sexo, año y lugar de nacimiento, lugar de domicilio y de su colegio, la facultad y especialidad en la que se encuentra matriculado, y el ciclo relativo en el que se sitúa el estudiante al comienzo de la matrícula. Se utilizó Google Colaboratory, donde se aplicó limpieza de datos al dataset para obtener la información más importante de éste, y después se utilizó Power BI, donde se desarrolló el dashboard en el que se analizó los datos de manera efectiva.
+El proyecto busca aplicar análisis de datos para descubrir patrones en estudiantes que mantienen un alto rendimiento académico. Para ello, se utilizó el dataset ofrecido por la Universidad Nacional de Ingeniería en la página de Datos Abiertos, que contenía información de las matrículas registradas desde el semestre 2016-1 hasta el 2024-1. Se utilizó Google Colaboratory, donde se aplicó limpieza de datos al dataset para obtener la información más importante de éste, y después se utilizó Power BI, donde se desarrolló el dashboard en el que se analizó los datos de manera efectiva.
+
+## 📖 Contenidos 📖
+
+1. [📰 Acerca del proyecto 📰](#-acerca-del-proyecto-)
+2. [📃 Objetivos y preguntas 📃](#-objetivos-y-preguntas-)
+
+## 📰 Acerca del proyecto 📰
+
+El proyecto fue realizado durante la datatón **"Exprésate Perú con Datos 2024"**. Para este evento, se tuvo que elegir 1-2 datasets dentro de la página de **Datos Abiertos**, hallar patrones destacables y realizar un análisis mediante el uso de una tecnología, como un modelo predictivo o un tablero de control, por ejemplo.
+
+Este proyecto utilizó el lenguaje de programación Python, dentro de un archivo de Jupyter Notebook. Como librerías utilizadas, tenemos:
+
+- **Pandas**, para manejar la información del dataset principal mediante dataframes.
+- **Matplotlib y pyplot**, para realizar gráficos que nos permita ver qué datos tenemos en cada columna del dataset, facilitando la corrección de información.
+- **NumPy**, para realizar mediciones como los rangos para cada tasa de pobreza de acuerdo a un porcentaje.
+
+Sin embargo, la visualización de datos final fue hecha con ayuda de un dashboard en Power BI.
+
+Como fuente de datos, se utilizó los datasets del conjunto 'Alumnos matriculados en la Universidad Nacional de Ingeniería - [UNI]', ofrecidos por la **Universidad Nacional de Ingeniería - UNI**.
+
+Página oficial de Datos Abiertos: https://www.datosabiertos.gob.pe/
+
+Datasets y diccionario del conjunto utilizado: https://www.datosabiertos.gob.pe/dataset/alumnos-matriculados-en-la-universidad-nacional-de-ingenier%C3%ADa-uni
+
+## 📃 Objetivos y preguntas 📃
+
+Para este proyecto, hubo un objetivo principal: Hallar patrones comunes en estudiantes con alto rendimiento académico.
+
+En progreso... 🫡
+
+## 📊 Procedimientos 📊
+
+1) Se pasaron los datos de archivo .csv a un dataframe.
+2) Se ordenaron las filas para mantener un buen orden en las matrículas.
+3) Se removieron las columnas que no contaban con suficientes datos para llenar los valores nulos, y que no serían de utilidad para el análisis.
+4) Se trató valores nulos y no-nulos para tener toda la información de manera adecuada.
+5) Se crearon dos dataframes adicionales que ayuden con la visualización de datos en el dashboard.
+6) Se descargaron los dataframes del Colab.
+7) Se subieron los datasets a un dashboard en Power BI y se realizaron los toques finales a los datates.
+8) Se crearon dos indicadores para el análisis general.
+9) Se mejoró el análisis de información mediante varios gráficos.
+    1. Un mapa que muestra los departamentos de domicilio de los estudiantes, con colores según la tasa de pobreza del departamento, y con tamaños según la cantidad de estudiantes que han vivido ahí.
+    2. Un gráfico de barras que muestra las modalidades de ingreso por el número de estudiantes.
+    3. Una tabla con la lista de estudiantes, por su ID, sexo, especialidad y Rendimiento Académico Actual.
+    4. Un gráfico de embudo que muestra los rangos de edad por el número de estudiantes.
+    5. Un gráfico para revisar los alumnos con un rendimiento académico de al menos un 80%.
+12) Se dividió el dashboard en tres hojas: Menú Principal, General y Detallado.
+13) Se realizó múltiples medidas con DAX para la visualización de datos en el análisis detallado.
+14) Se publicó el dashboard en la web de forma pública.
+
+## 📝 Conclusiones e ideas post-análisis 📝
+
+En progreso... 🫡
+
