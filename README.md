@@ -6,11 +6,7 @@
 
 Para ver el dashboard del análisis, haga clic en el primer icono de badge de arriba ('Clic para abrir Power BI dashboard') o en el segundo icono ('Clic para abrir Google Colaboratory').
 
-Si no le funciona, haga clic en el siguiente link:
-
-Power BI dashboard: https://app.powerbi.com/view?r=eyJrIjoiMmJkZTJiNjktM2MzNi00NmNhLTk5OWEtMWJmOGU0MjU1NDZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9
-
-Google Colaboratory: https://colab.research.google.com/drive/1TSI0C-4jdSA9TzLkCOL6lXWZ0c_zXpzL?usp=sharing
+Si no le funcionan los links, puede hacer click en los enlaces resaltados para entrar al [dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmJkZTJiNjktM2MzNi00NmNhLTk5OWEtMWJmOGU0MjU1NDZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9) y al [Google Colab](https://colab.research.google.com/drive/1TSI0C-4jdSA9TzLkCOL6lXWZ0c_zXpzL?usp=sharing) del análisis.
 
 ## Resumen
 
@@ -20,6 +16,8 @@ El proyecto busca aplicar análisis de datos para descubrir patrones en estudian
 
 1. [📰 Acerca del proyecto 📰](#-acerca-del-proyecto-)
 2. [📃 Objetivos y preguntas 📃](#-objetivos-y-preguntas-)
+3. [📊 Procedimientos 📊](#-procedimientos-)
+4. [📝 Conclusiones e ideas post-análisis 📝](#-conclusiones-e-ideas-post-análisis-)
 
 ## 📰 Acerca del proyecto 📰
 
@@ -62,7 +60,7 @@ En progreso... 🫡
     4. Un gráfico de embudo que muestra los rangos de edad por el número de estudiantes.
     5. Un gráfico para revisar los alumnos con un rendimiento académico de al menos un 80%.
 12) Se dividió el dashboard en tres hojas: Menú Principal, General y Detallado.
-13) Se realizó múltiples medidas con DAX para la visualización de datos en el análisis detallado.
+13) Se realizaron medidas con DAX para la visualización de datos en el análisis detallado.
 14) Se publicó el dashboard en la web de forma pública.
 
 ## 📝 Conclusiones e ideas post-análisis 📝
