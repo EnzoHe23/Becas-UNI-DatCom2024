@@ -41,7 +41,12 @@ Datasets y diccionario del conjunto utilizado: https://www.datosabiertos.gob.pe/
 
 Para este proyecto, hubo un objetivo principal: Hallar patrones comunes en estudiantes con alto rendimiento académico.
 
-En progreso... 🫡
+Hubieron 4 preguntas que se respondieron en este análisis:
+
+1. ¿Cuál el Rendimiento Académico general por tasa de pobreza/facultad/rango de edad/modalidad de ingreso/estudiantes recientes?
+2. ¿Cuántos son los estudiantes por tasa de pobreza/facultad/rango de edad/modalidad de ingreso/estudiantes recientes?
+3. ¿Cuántos estudiantes no alcanzaron un alto rendimiento académico? ¿Cuál es su R. A. general?
+4. ¿Por qué hay estudiantes con un rendimiento académico anormal?
 
 ## 📊 Procedimientos 📊
 
@@ -65,5 +70,6 @@ En progreso... 🫡
 
 ## 📝 Conclusiones e ideas post-análisis 📝
 
-En progreso... 🫡
-
+1. En caso de que no se trate de corrupción, hay serios problemas con el registro de los ciclos relativos en las matrículas de los estudiantes. Se necesita mejorar el sistema que registra los datos de matrícula.
+2. Si bien el rendimiento académico puede indicar el potencial de los estudiantes para el aprendizaje, los valores exagerados pueden entorpecer la visión sobre este potencial, y hasta considerarlo irreal.
+3. Las matrículas con R. A. anormales vienen mayormente de los estudiantes matriculados hasta el 2022-2. Para llevar a cabo posibles soluciones, sería más efectivo tomar en cuenta los datos de matrículas que continúen más allá del semestre 2022-2.
