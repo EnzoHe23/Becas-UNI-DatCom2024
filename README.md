@@ -1,4 +1,4 @@
-# Proyecto especial: Becas para estudiantes de la UNI (08/08 - 28/08)
+# Proyecto especial: Becas para estudiantes de la UNI (08/08 - 01/09)
 
 [![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Power%20BI%20dashboard-yellow.svg)](https://app.powerbi.com/view?r=eyJrIjoiMmJkZTJiNjktM2MzNi00NmNhLTk5OWEtMWJmOGU0MjU1NDZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 
