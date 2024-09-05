@@ -12,7 +12,7 @@ Haga clic en los badges de arriba ('Clic para abrir Power BI dashboard' o 'Clic 
 [![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Power%20BI%20dashboard-yellow.svg)](https://app.powerbi.com/view?r=eyJrIjoiOTllZmIxMjEtMTAzYS00N2EwLWFlMTUtODM3Y2ZiNzBlMjQzIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 [![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Google%20Colaboratory-orange.svg)](https://colab.research.google.com/drive/15QivZfFC8UZ-Q7NikX3S-1Dhn7I9pzEr?usp=sharing)
 
-Haga clic en el primer icono de badge de arriba ('Clic para abrir Power BI dashboard') o en el segundo icono ('Clic para abrir Google Colaboratory'). Si no le funcionan los links, puede hacer click en los enlaces resaltados para entrar al [dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTllZmIxMjEtMTAzYS00N2EwLWFlMTUtODM3Y2ZiNzBlMjQzIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9) y al [Google Colab](https://colab.research.google.com/drive/15QivZfFC8UZ-Q7NikX3S-1Dhn7I9pzEr?usp=sharing) del análisis.
+Haga clic en los badges de arriba ('Clic para abrir Power BI dashboard' o 'Clic para abrir Google Colaboratory'). Si no le funcionan los links, puede hacer click en los enlaces resaltados para entrar al [dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTllZmIxMjEtMTAzYS00N2EwLWFlMTUtODM3Y2ZiNzBlMjQzIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9) y al [Google Colab](https://colab.research.google.com/drive/15QivZfFC8UZ-Q7NikX3S-1Dhn7I9pzEr?usp=sharing) del análisis.
 
 ## Resumen
 
