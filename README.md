@@ -16,7 +16,7 @@ Haga clic en los badges de arriba ('Clic para abrir Power BI dashboard' o 'Clic 
 
 ## Resumen
 
-El proyecto busca aplicar análisis de datos para descubrir patrones en estudiantes que poseen un alto rendimiento académico. Para ello, se utilizó el dataset ofrecido por la Universidad Nacional de Ingeniería en la página de Datos Abiertos, que contenía información de las matrículas registradas desde el semestre 2016-1 hasta el 2024-1. Se utilizó Google Colaboratory, donde se aplicó limpieza de datos al dataset para obtener la información más importante de éste, y después se utilizó Power BI, donde se desarrolló el dashboard en el que se analizó los datos de manera efectiva. El prototipo de solución también es un dashboard en Power BI, que meustra los estudiantes que cumplen con lo necesario para ganarse una beca para maestría o doctorado.
+El proyecto busca aplicar análisis de datos para descubrir patrones en estudiantes que poseen un alto rendimiento académico. Para ello, se utilizó el dataset ofrecido por la Universidad Nacional de Ingeniería en la página de Datos Abiertos, que contenía información de las matrículas registradas desde el semestre 2016-1 hasta el 2024-1. Se utilizó Google Colaboratory, donde se aplicó limpieza de datos al dataset para obtener la información más importante de éste, y después se utilizó Power BI, donde se desarrolló el dashboard en el que se analizó los datos de manera efectiva. El prototipo de solución también es un dashboard en Power BI, que mUestra los estudiantes que cumplen con lo necesario para ganarse una beca para maestría o doctorado.
 
 ## 📖 Contenidos 📖
 
