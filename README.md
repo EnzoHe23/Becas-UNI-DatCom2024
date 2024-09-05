@@ -1,16 +1,22 @@
-# Proyecto especial: Becas para estudiantes de la UNI (08/08 - 01/09)
+# Proyecto especial: Becas para estudiantes de la UNI (08/08 - 05/09)
+
+### Para el análisis
 
 [![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Power%20BI%20dashboard-yellow.svg)](https://app.powerbi.com/view?r=eyJrIjoiMmJkZTJiNjktM2MzNi00NmNhLTk5OWEtMWJmOGU0MjU1NDZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
-
 [![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Google%20Colaboratory-orange.svg)](https://colab.research.google.com/drive/1TSI0C-4jdSA9TzLkCOL6lXWZ0c_zXpzL?usp=sharing)
 
-Para ver el dashboard del análisis, haga clic en el primer icono de badge de arriba ('Clic para abrir Power BI dashboard') o en el segundo icono ('Clic para abrir Google Colaboratory').
+Haga clic en los badges de arriba ('Clic para abrir Power BI dashboard' o 'Clic para abrir Google Colaboratory'). Si no le funcionan los links, puede hacer click en los enlaces resaltados para entrar al [dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmJkZTJiNjktM2MzNi00NmNhLTk5OWEtMWJmOGU0MjU1NDZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9) y al [Google Colab](https://colab.research.google.com/drive/1TSI0C-4jdSA9TzLkCOL6lXWZ0c_zXpzL?usp=sharing) del análisis.
 
-Si no le funcionan los links, puede hacer click en los enlaces resaltados para entrar al [dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMmJkZTJiNjktM2MzNi00NmNhLTk5OWEtMWJmOGU0MjU1NDZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9) y al [Google Colab](https://colab.research.google.com/drive/1TSI0C-4jdSA9TzLkCOL6lXWZ0c_zXpzL?usp=sharing) del análisis.
+### Para el prototipo de solución
+
+[![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Power%20BI%20dashboard-yellow.svg)](https://app.powerbi.com/view?r=eyJrIjoiOTllZmIxMjEtMTAzYS00N2EwLWFlMTUtODM3Y2ZiNzBlMjQzIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
+[![Javascript](https://img.shields.io/badge/Clic%20para%20abrir-Google%20Colaboratory-orange.svg)](https://colab.research.google.com/drive/15QivZfFC8UZ-Q7NikX3S-1Dhn7I9pzEr?usp=sharing)
+
+Haga clic en el primer icono de badge de arriba ('Clic para abrir Power BI dashboard') o en el segundo icono ('Clic para abrir Google Colaboratory'). Si no le funcionan los links, puede hacer click en los enlaces resaltados para entrar al [dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTllZmIxMjEtMTAzYS00N2EwLWFlMTUtODM3Y2ZiNzBlMjQzIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9) y al [Google Colab](https://colab.research.google.com/drive/15QivZfFC8UZ-Q7NikX3S-1Dhn7I9pzEr?usp=sharing) del análisis.
 
 ## Resumen
 
-El proyecto busca aplicar análisis de datos para descubrir patrones en estudiantes que mantienen un alto rendimiento académico. Para ello, se utilizó el dataset ofrecido por la Universidad Nacional de Ingeniería en la página de Datos Abiertos, que contenía información de las matrículas registradas desde el semestre 2016-1 hasta el 2024-1. Se utilizó Google Colaboratory, donde se aplicó limpieza de datos al dataset para obtener la información más importante de éste, y después se utilizó Power BI, donde se desarrolló el dashboard en el que se analizó los datos de manera efectiva.
+El proyecto busca aplicar análisis de datos para descubrir patrones en estudiantes que poseen un alto rendimiento académico. Para ello, se utilizó el dataset ofrecido por la Universidad Nacional de Ingeniería en la página de Datos Abiertos, que contenía información de las matrículas registradas desde el semestre 2016-1 hasta el 2024-1. Se utilizó Google Colaboratory, donde se aplicó limpieza de datos al dataset para obtener la información más importante de éste, y después se utilizó Power BI, donde se desarrolló el dashboard en el que se analizó los datos de manera efectiva. El prototipo de solución también es un dashboard en Power BI, que meustra los estudiantes que cumplen con lo necesario para ganarse una beca para maestría o doctorado.
 
 ## 📖 Contenidos 📖
 
@@ -18,6 +24,7 @@ El proyecto busca aplicar análisis de datos para descubrir patrones en estudian
 2. [📃 Objetivos y preguntas 📃](#-objetivos-y-preguntas-)
 3. [📊 Procedimientos 📊](#-procedimientos-)
 4. [📝 Conclusiones e ideas post-análisis 📝](#-conclusiones-e-ideas-post-análisis-)
+5. [💡 Solución propuesta 💡](#-solución-propuesta-)
 
 ## 📰 Acerca del proyecto 📰
 
@@ -73,3 +80,7 @@ Hubieron 4 preguntas que se respondieron en este análisis:
 1. En caso de que no se trate de corrupción, hay serios problemas con el registro de los ciclos relativos en las matrículas de los estudiantes. Se necesita mejorar el sistema que registra los datos de matrícula.
 2. Si bien el rendimiento académico puede indicar el potencial de los estudiantes para el aprendizaje, los valores exagerados pueden entorpecer la visión sobre este potencial, y hasta considerarlo irreal.
 3. Las matrículas con R. A. anormales vienen mayormente de los estudiantes matriculados hasta el 2022-2. Para llevar a cabo posibles soluciones, sería más efectivo tomar en cuenta los datos de matrículas que continúen más allá del semestre 2022-2.
+
+## 💡 Solución propuesta 💡
+
+Con el fin de ayudar a lograr el Objetivo de Desarrollo Sostenible 4 (Educación de Calidad), hemos propuesto crear una app que facilite el registro de la información de las matrículas, que contenga un dashboard que muestre aquellos alumnos que cumplan con los requisitos necesarios para ser considerados aptos para una beca para maestría o doctorado. El prototipo de la solución SÓLO incluye el dashboard.
