@@ -84,3 +84,7 @@ Hubieron 4 preguntas que se respondieron en este análisis:
 ## 💡 Solución propuesta 💡
 
 Con el fin de ayudar a lograr el Objetivo de Desarrollo Sostenible 4 (Educación de Calidad), hemos propuesto crear una app que facilite el registro de la información de las matrículas, que contenga un dashboard que muestre aquellos alumnos que cumplan con los requisitos necesarios para ser considerados aptos para una beca para maestría o doctorado. El prototipo de la solución SÓLO incluye el dashboard.
+
+La solución ayudará con dos metas del ODS 4:
+- Meta 3.4, ya que los estudiantes no serán discriminados por su sexo, y tendrán acceso a una buena calidad de educación universitaria pública.
+- Meta 4.4, ya que busca evitar la deserción temprana por falta de dinero, y aumentar sustancialmente el número de jóvenes adultos con competencias profesionales y listos para conseguir un empleo decente o hacer un emprendimiento propio.
